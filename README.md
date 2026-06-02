@@ -30,6 +30,7 @@ Selected a continuous target variable
 <br>
 logFC (gene expression change) remaining statistical features were used as predictors checked for missing values and outliers standardized features where required
 <br>
+
 **Train-Test Split**
 <br>
 **80% Training Set**
@@ -48,6 +49,7 @@ Assessment of model generalization
 <br>
 Regression Models Evaluated
 <br>
+
 **The following machine learning algorithms were implemented and compared:**
 <br>
 Linear Regression
@@ -64,6 +66,7 @@ K-Nearest Neighbors (KNN) Regressor
 <br>
 Model Evaluation Metrics
 <br>
+
 **Model performance was assessed using:**
 <br>
 R² Score (Coefficient of Determination)
