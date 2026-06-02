@@ -23,7 +23,7 @@ AveExpr – Average expression level
 t – Moderated t-statistic
 <br>
 P.Value – Raw p-value
-<br>.
+<br>
 Removed non-numeric identifier column (name)
 <br>
 Selected a continuous target variable
