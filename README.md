@@ -81,18 +81,18 @@ These metrics were used to compare predictive accuracy and model robustness.
 
 **Workflow**
 <br>
-Import and preprocess differential expression dataset
+  Import and preprocess differential expression dataset
 <br>
-Select target variable (logFC )
+  Select target variable (logFC )
 <br>
-Split data into training and testing sets
+  Split data into training and testing sets
 <br>
-Train multiple regression models
+  Train multiple regression models
 <br>
-Evaluate model performance using regression metrics
+  Evaluate model performance using regression metrics
 <br>
-Compare model predictions
+  Compare model predictions
 <br>
-Identify the best-performing regression algorithm
+  Identify the best-performing regression algorithm
 <br>
-Interpret feature contributions to gene expression outcomes
+  Interpret feature contributions to gene expression outcomes
